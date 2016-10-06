@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//WebRoot/AddEmployee.jsp=UTF-8
+encoding//src/com/ctrip/controller/AddEmployee.java=UTF-8
+encoding//src/com/ctrip/controller/RetrieveEmployees.java=UTF-8
+encoding//src/com/ctrip/model/DatabaseConnection.java=UTF-8
+encoding//src/com/ctrip/model/Employee.java=UTF-8
+encoding//src/com/ctrip/model/EmployeeDAO.java=UTF-8
